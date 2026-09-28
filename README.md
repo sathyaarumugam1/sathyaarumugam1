@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sathya 👋
 
-<!--
-**sathyaarumugam1/sathyaarumugam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.E. Computer Science & Engineering Student | Full-Stack Developer | AI & IoT Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building practical and meaningful technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently learning Full-Stack Development
+- 🤖 Interested in AI and Machine Learning
+- ⚡ Exploring IoT-based solutions
+- 🚀 Building projects to strengthen my development skills
+- 🎯 Goal: Grow as a software developer and solve real-world problems
+
+### 🛠️ Skills
+
+HTML • CSS • JavaScript • Python • C • SQL • Git • GitHub
+
+### 📌 Featured Projects
+
+- 🔍 Deepfake Detection System
+- ⚡ PowerSense – Electricity Monitoring System
+- 👁️ Retinal Disease Classification
+- 🎓 Student Management System
+- 💰 Expense Tracker
+
+### 🤝 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/sathya-arumugam-3582452a
