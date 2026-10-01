@@ -1,27 +1,33 @@
-# Hi, I'm Sathya 👋
+SATHYA ARUMUGAM
+Computer Science & Engineering Student
 
-### B.E. Computer Science & Engineering Student | Full-Stack Developer | AI & IoT Enthusiast
+AI • COMPUTER VISION • DEEP LEARNING
 
-I'm a Computer Science student passionate about building practical and meaningful technology solutions.
+Building things that turn ideas into working systems.
 
-- 💻 Currently learning Full-Stack Development
-- 🤖 Interested in AI and Machine Learning
-- ⚡ Exploring IoT-based solutions
-- 🚀 Building projects to strengthen my development skills
-- 🎯 Goal: Grow as a software developer and solve real-world problems
+Currently exploring:
 
-### 🛠️ Skills
+Artificial Intelligence
+Computer Vision
+Deep Learning
+Software Development
+IoT & Embedded Systems
 
-HTML • CSS • JavaScript • Python • C • SQL • Git • GitHub
+SELECTED PROJECTS
 
-### 📌 Featured Projects
+01 — Deepfake Media Analysis System
+02 — AI-Based Retinal Disease Detection
+03 — PowerSense Strip
+04 — Telegram Automation Workflow
 
-- 🔍 Deepfake Detection System
-- ⚡ PowerSense – Electricity Monitoring System
-- 👁️ Retinal Disease Classification
-- 🎓 Student Management System
-- 💰 Expense Tracker
+STACK
 
-### 🤝 Connect with Me
+Python · Java · C/C++ · JavaScript · SQL
+PyTorch · ConvNeXt · OpenCV
+HTML · CSS · Git · GitHub
+ESP32 · Arduino · IoT
+
+
+Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/sathya-arumugam-3582452a
