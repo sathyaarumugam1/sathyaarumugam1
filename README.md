@@ -70,12 +70,5 @@ IoT-based electricity monitoring and bill prediction system using ESP32 and PZEM
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathyaarumugam1&show_icons=true&hide_border=true&theme=transparent" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathyaarumugam1&theme=github-compact&hide_border=true" />
-</p>
