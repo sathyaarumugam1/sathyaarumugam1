@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sathya A 👋</h1>
+<h1 align="center">Hi, I'm Sathya Arumugam 👋</h1>
 
 <p align="center">
   <b>Computer Science & Engineering Student | Aspiring AI/ML & Software Engineer</b><br/>
